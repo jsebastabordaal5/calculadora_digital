@@ -4,5 +4,8 @@ def suma(num_1: float, num_2: float) -> float:
 def resta(num_1: float, num_2: float) -> float:
     return num_1 - num_2
 
+def mult(num_1: float, num_2: float) -> float:
+    return num_1 * num_2
+
 
 
